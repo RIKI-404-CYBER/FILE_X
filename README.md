@@ -22,7 +22,7 @@ rm -rf FILE_X
 
 git clone https://github.com/Sakib-404cyber/FILE_X
 
-cd FILE-X
+cd FILE_X
 
 python FILE.py
 
